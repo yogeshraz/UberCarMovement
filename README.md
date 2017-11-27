@@ -17,4 +17,4 @@ Add your Google Maps API key to your AppDelegate.m as follows:
 2. Capabilities->BackgroundMode->Location Update
 #
 
-
+https://github.com/yogeshraz/UberCarMovement/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%206%20-%202017-11-27%20at%2015.15.32.png
